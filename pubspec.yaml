@@ -1,0 +1,15 @@
+name: robot_dart
+description: Robot Dart 2D Game
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.17.0
+
+flutter:
+  uses-material-design: true
